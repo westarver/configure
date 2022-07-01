@@ -1,4 +1,4 @@
-module configure
+module github.com/westarver/configure
 
 go 1.18
 
